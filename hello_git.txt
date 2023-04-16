@@ -1,5 +1,4 @@
 hello_code
 git is good.
-hi
-hi2
 ok222
+i want mergek
