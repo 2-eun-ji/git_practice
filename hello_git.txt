@@ -2,4 +2,4 @@ hello_code
 git is good.
 hi
 hi2
-ok
+i want mergek
